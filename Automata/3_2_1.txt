@@ -1,0 +1,6 @@
+Q={s,f} E={a,b,c} T={A,B,Z} Z=Z S=s F={f} 
+D={s,a,e-s,A,
+s,b,e-s,B,
+s,c,e-f,e,
+f,a,A-f,e,
+f,b,B-f,e} ababbcbbaba
